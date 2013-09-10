@@ -1,0 +1,9 @@
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\RelationalChuck\bin\Debug\RelationalChuck.dll
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\RelationalChuck\bin\Debug\RelationalChuck.pdb
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\RelationalChuck\bin\Debug\EntityFramework.dll
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\RelationalChuck\bin\Debug\EntityFramework.xml
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\RelationalChuck\obj\Debug\RelationalChuck.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\RelationalChuck\obj\Debug\RelationalChuck.dll
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\RelationalChuck\obj\Debug\RelationalChuck.pdb
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\RelationalChuck\bin\Debug\Newtonsoft.Json.dll
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\RelationalChuck\bin\Debug\Newtonsoft.Json.xml

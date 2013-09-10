@@ -1,0 +1,15 @@
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\NoOneImportsChuckNorris\obj\Debug\NoOneImportsChuckNorris.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\NoOneImportsChuckNorris.exe.config
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\NoOneImportsChuckNorris.exe
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\NoOneImportsChuckNorris.pdb
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\NoOneImportsChuckNorris\obj\Debug\NoOneImportsChuckNorris.exe
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\NoOneImportsChuckNorris\obj\Debug\NoOneImportsChuckNorris.pdb
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\EntityFramework.dll
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\EntityFramework.xml
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\RelationalChuck.dll
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\RelationalChuck.pdb
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\Newtonsoft.Json.dll
+\\psf\home\documents\visual studio 2012\Projects\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\Newtonsoft.Json.xml
+C:\git\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\NoOneImportsChuckNorris.exe.config
+C:\git\ChuckNorris\NoOneImportsChuckNorris\obj\Debug\NoOneImportsChuckNorris.exe
+C:\git\ChuckNorris\NoOneImportsChuckNorris\obj\Debug\NoOneImportsChuckNorris.pdb
