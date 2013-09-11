@@ -30,3 +30,37 @@
 \\psf\home\documents\visual studio 2012\Projects\ChuckNorris\ChuckNorris\obj\Debug\ChuckNorris.csprojResolveAssemblyReference.cache
 \\psf\home\documents\visual studio 2012\Projects\ChuckNorris\ChuckNorris\obj\Debug\ChuckNorris.dll
 \\psf\home\documents\visual studio 2012\Projects\ChuckNorris\ChuckNorris\obj\Debug\ChuckNorris.pdb
+C:\git\ChuckNorris\ChuckNorris\obj\Debug\ChuckNorris.csprojResolveAssemblyReference.cache
+C:\git\ChuckNorris\ChuckNorris\obj\Debug\ChuckNorris.dll
+C:\git\ChuckNorris\ChuckNorris\bin\ChuckNorris.dll
+C:\git\ChuckNorris\ChuckNorris\bin\ChuckNorris.pdb
+C:\git\ChuckNorris\ChuckNorris\bin\Antlr3.Runtime.dll
+C:\git\ChuckNorris\ChuckNorris\bin\EntityFramework.dll
+C:\git\ChuckNorris\ChuckNorris\bin\Microsoft.Web.Infrastructure.dll
+C:\git\ChuckNorris\ChuckNorris\bin\Newtonsoft.Json.dll
+C:\git\ChuckNorris\ChuckNorris\bin\RelationalChuck.dll
+C:\git\ChuckNorris\ChuckNorris\bin\System.Net.Http.Formatting.dll
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.Helpers.dll
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.Http.dll
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.Http.WebHost.dll
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.Mvc.dll
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.Optimization.dll
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.Providers.dll
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.Razor.dll
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.WebPages.Deployment.dll
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.WebPages.dll
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.WebPages.Razor.dll
+C:\git\ChuckNorris\ChuckNorris\bin\WebGrease.dll
+C:\git\ChuckNorris\ChuckNorris\bin\RelationalChuck.pdb
+C:\git\ChuckNorris\ChuckNorris\bin\Newtonsoft.Json.xml
+C:\git\ChuckNorris\ChuckNorris\bin\EntityFramework.xml
+C:\git\ChuckNorris\ChuckNorris\bin\System.Net.Http.Formatting.xml
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.Helpers.xml
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.Http.xml
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.Http.WebHost.xml
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.Mvc.xml
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.Razor.xml
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.WebPages.xml
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.WebPages.Deployment.xml
+C:\git\ChuckNorris\ChuckNorris\bin\System.Web.WebPages.Razor.xml
+C:\git\ChuckNorris\ChuckNorris\obj\Debug\ChuckNorris.pdb

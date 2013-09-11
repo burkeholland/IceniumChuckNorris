@@ -13,3 +13,12 @@
 C:\git\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\NoOneImportsChuckNorris.exe.config
 C:\git\ChuckNorris\NoOneImportsChuckNorris\obj\Debug\NoOneImportsChuckNorris.exe
 C:\git\ChuckNorris\NoOneImportsChuckNorris\obj\Debug\NoOneImportsChuckNorris.pdb
+C:\git\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\NoOneImportsChuckNorris.exe
+C:\git\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\NoOneImportsChuckNorris.pdb
+C:\git\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\EntityFramework.dll
+C:\git\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\Newtonsoft.Json.dll
+C:\git\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\RelationalChuck.dll
+C:\git\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\RelationalChuck.pdb
+C:\git\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\EntityFramework.xml
+C:\git\ChuckNorris\NoOneImportsChuckNorris\bin\Debug\Newtonsoft.Json.xml
+C:\git\ChuckNorris\NoOneImportsChuckNorris\obj\Debug\NoOneImportsChuckNorris.csprojResolveAssemblyReference.cache
